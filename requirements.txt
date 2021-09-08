@@ -16,7 +16,7 @@ packaging==19.2
 parse==1.15.0
 parse-type==0.5.2
 pathtools==0.1.2
-Pillow==7.1.1
+Pillow==8.3.2
 plumbum==1.6.8
 portalocker==1.6.0
 pyaes==1.6.1
